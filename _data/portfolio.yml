@@ -1,0 +1,9 @@
+enable: true
+filters:
+  - web
+  - ai
+  - unity
+  - os
+  - robotics
+  - mobile
+description:  I have included projects which I have done for ISC, courses at university, and tasks at Bio-Inspired System Design Lab.
