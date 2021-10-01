@@ -1,7 +1,8 @@
 
 # Created by https://www.toptal.com/developers/gitignore/api/jekyll,ruby
 # Edit at https://www.toptal.com/developers/gitignore?templates=jekyll,ruby
-
+.idea
+/.idea/**
 ### Jekyll ###
 _site/
 .sass-cache/
