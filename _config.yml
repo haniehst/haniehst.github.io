@@ -5,5 +5,5 @@ collections:
     permalink: :collection/:name
 baseurl: "/portfolio" # the subpath of your site, e.g. /blog/
 relative_url: "/portfolio"
-url: "http://abradat.github.io/" # the base hostname & protocol for your site
+url: "http://haniehst.github.io/" # the base hostname & protocol for your site
 markdown: kramdown
