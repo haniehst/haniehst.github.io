@@ -1,6 +1,6 @@
 ---
 layout: portfolio_detail
-order: 12
+order: 5
 title: Noise Reduction
 name: noise-reduction
 badge-description: A project removes noises from noisy images.
@@ -12,7 +12,7 @@ project-date: Fall 2017
 project-url:
 github-repository: haniehst/Noise-Reduction
 full-description: A project adding noise to sample pictures and denoise them later using spatial and frequency domain filters. 
-images
+images:
     - address: 'gaussian.png'
       caption: 'A picture which has Gaussian Noise'
     - address: 'median.png'
@@ -26,10 +26,9 @@ This project is implemented for **Artificial Intelligence** course during my B.S
 * gaussian
 * salt & pepper
 * speckle
-then with the help of spatial (median and mean filters) and frequency domain filters the noise is removed from the image.
+then with the help of spatial (median and mean filters) and frequency domain filters the noise is removed from the image.      
 
 #### Technologies/Languages Used
-
 {: .table .table-striped}
 | Technology | Usage |
 |------------------|--------|
