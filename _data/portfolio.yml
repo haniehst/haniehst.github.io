@@ -1,0 +1,6 @@
+enable: true
+filters:
+  - software
+  - ai
+  - network
+description:  I have included projects which I have done for MCI, EXa ,and also courses at university

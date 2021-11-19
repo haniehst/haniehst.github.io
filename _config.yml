@@ -1,0 +1,9 @@
+collections:
+  projects:
+    output: true
+    # sort_by: order
+    permalink: :collection/:name
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog/
+relative_url: "/portfolio"
+url: "http://haniehst.github.io/" # the base hostname & protocol for your site
+markdown: kramdown
