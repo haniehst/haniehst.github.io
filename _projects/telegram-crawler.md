@@ -1,40 +1,29 @@
 ---
 layout: portfolio_detail_large
-order: 2
-title:  PS5 News Crawler
-name: ps5-news-crawler
-badge-description: A web application for crawling the latest news from CNN and latest tweets from Twitter about PS5 console.
-filter: filter-web filter-ai
-badge-image: badge.jpeg
-category: Web, AI
+order: 1
+title:  Telegram Crawler
+name: telegram-crawler
+badge-description: A web application for crawling the telegram.
+filter: filter-software
+badge-image: badge.jpg
+category: Software
 client:
-project-date: December 2020
+project-date: August 2021
 project-url:
-github-repository: abradat/ps5-news
-full-description: This project is web based application for crawling latest news from CNN and latest tweets and analyzing people's oponion about Sony's last gaming console, PS5.
+github-repository: 
+full-description: This project is a web application
 # images:
 #     - 'cnn-overall.png'
 #     - 'cnn-details.png'
 #     - 'twitter-overall.png'
-images:
-    - address: 'cnn-overall.png'
-      caption: 'List of crawled news from CNN'
-    - address: 'cnn-details.png'
-      caption: 'Details of the news crawled from CNN'
-    - address: 'twitter-overall.png'
-      caption: 'List of tweets crawled from Twitter'
-    - address: 'twitter-detail.png'
-      caption: 'Detail of a tweet with sentiment analysis tag'
-    
----
-#### Introduction
-This project is developed for crawling recent articles from **CNN** and recent **tweets** from people about the latest released console, PS5.
 
+---
+****NOTE: None of Exa's projects are open source. So, I am not allowed to share the code which I have developed in this project.**
+#### Introduction
+This project is developed for crawling public channels and groups
 #### Components
 
-**Spring Boot Server Application**: This application is responsible for crawling data from CNN and Twitter. Also, it exposes REST endpoints for fetching crawled data.  
-**Angular Application**: The GUI web application for viewing crawled data and requesting for further crawls.  
-**Selenium**: Selenium provides powerful features for web browsing automation. It is used for crawling the CNN website.  
+
 **PostgreSQL**: This databased is used for storing crawled data from CNN and Twitter.
 
 #### Data Crawling
@@ -53,7 +42,7 @@ This project is developed for crawling recent articles from **CNN** and recent *
 {: .table .table-striped}
 | Technology | Usage |
 |------------------|--------|
-| <img src="{{'assets/img/portfolio/technologies/java.png' | relative_url}}" width="60" height="60"> | **Java** is used for developing backend services |
+| <img src="{{'assets/img/portfolio/technologies/python.png' | relative_url}}" width="60" height="60"> | **Python** is the languages used for projects. |
 | <img src="{{'assets/img/portfolio/technologies/typescript.png' | relative_url}}" width="60" height="60"> | **Typescript** is the main language used for developing Angular applications. |
 | <img src="{{'assets/img/portfolio/technologies/spring-boot.png' | relative_url}}" width="60" height="60"> | **Spring Boot** framework is used for developing backend services for exposing REST endpoints and crawling CNN and Twitter |
 | <img src="{{'assets/img/portfolio/technologies/spring.png' | relative_url}}" width="60" height="60"> | **Spring** frameworks, including Spring Cloud, Spring Security, Spring Data, etc. are used for developing backend services. |

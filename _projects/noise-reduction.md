@@ -25,10 +25,13 @@ images:
 This project is implemented for **Artificial Intelligence** course during my B.Sc. period. With the help of OpenCV three types of noises are added to our test images:
 * gaussian
 * salt & pepper
-* speckle
-then with the help of spatial (median and mean filters) and frequency domain filters the noise is removed from the image.      
-
+* speckle  
+then with the help of spatial (median and mean filters) and frequency domain filters the noise is removed from the image.
+<br />
+<br />
+<br />
 #### Technologies/Languages Used
+
 {: .table .table-striped}
 | Technology | Usage |
 |------------------|--------|
