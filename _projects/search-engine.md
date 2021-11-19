@@ -3,32 +3,38 @@ layout: portfolio_detail_large
 order: 1
 title:  Search Engine
 name: search-engine
-badge-description: A Media Search Engine Based on media crawling and FastAPI.
+badge-description: A Search Engine.
 filter: filter-software
 badge-image: badge.jpg
 category: Software
 client:
 project-date: Present
-full-description: A search engine based on the Inverted Index Algorithm and Flask framework.
+full-description: Search Engine
 images:
-    - address: 'main.png'
-      caption: 'Basic and advance search options'
-    - address: 'netflix.png'
-      caption: 'History of the previous searches'
-    - address: 'results.png'
-      caption: 'Results of the searches'
+    - address: 'main2.png'
+      caption: 'Main Page'
+    - address: 'gn2.png'
+      caption: 'General Tab'
+    - address: 'netflix-2.png'
+      caption: 'Movie Tab'
+    - address: 'new1.png'
+      caption: 'News Tab'
+    - address: 'music1.png'
+      caption: 'Music Tab'
 ---
-#### Overview
-This project was done for the **Advanced Programming** course during my university during Spring 2016. 
+**NOTE: None of MCI's projects are open source. So, I am not allowed to share the code which I have developed in this project.**
 
-The search engine is a web application based on **Flask** framework. Data is crawled using **Scrapy** from websites containing the word "python". Crawled data is normalized by **Stanford NLTK** framework and saved to database based on **Inverted Index** Algorithm. 
+#### Introduction
+**Zarebin** is certainly the most accurate, fast and efficient search engine launched in Iran so far and appears to be slowly gaining traction recently coming out with its own browser and search app for android devices.
+
 #### Technologies/Languages Used
 
 {: .table .table-striped}
 | Technology | Usage |
 |------------------|--------|
-| <img src="{{'assets/img/portfolio/technologies/python.png' | relative_url}}" width="60" height="60"> | **Python** is used for developing the application. |
-| <img src="{{'assets/img/portfolio/technologies/flask.png' | relative_url}}" width="80" height="60"> | **Flask** is the web framework used for this search engine. |
-| <img src="{{'assets/img/portfolio/technologies/scrapy.png' | relative_url}}" width="120" height="48"> | **Scrapy** is used for crawling websites. |
-| <img src="{{'assets/img/portfolio/technologies/core-nlp.png' | relative_url}}" width="110" height="60"> | **NLTK** by stanford is used for normalizing text crawled from websites.|
-| <img src="{{'assets/img/portfolio/technologies/sqlite.png' | relative_url}}" width="110" height="60"> | **SQLite** is used as database|
+| <img src="{{'assets/img/portfolio/technologies/python.png' | relative_url}}" width="60" height="60"> | **Python** is used for developing the application |
+| <img src="{{'assets/img/portfolio/technologies/kafka.png' | relative_url}}" width="60" height="60"> | **Kafka** is used to produce collected data |
+| <img src="{{'assets/img/portfolio/technologies/fast.png' | relative_url}}" width="60" height="60"> | **FastAPI** is used for API Gateway|
+| <img src="{{'assets/img/portfolio/technologies/elastic.jpeg' | relative_url}}" width="60" height="60"> | **Elasticsearch** is used for data storage and content search|
+| <img src="{{'assets/img/portfolio/technologies/docker.png' | relative_url}}" width="60" height="60"> | **Docker** is used for virtualization and containerizing services|
+| <img src="{{'assets/img/portfolio/technologies/git.png' | relative_url}}" width="60" height="60"> | **Git** is used for version control |

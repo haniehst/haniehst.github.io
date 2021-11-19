@@ -11,7 +11,7 @@ client:
 project-date: August 2021
 project-url:
 github-repository: 
-full-description: This project is a web application
+full-description:
 
 ---
 **NOTE: None of Exa's projects are open source. So, I am not allowed to share the code which I have developed in this project.**
