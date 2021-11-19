@@ -1,21 +1,19 @@
 ---
 layout: portfolio_detail_large
-order: 13
+order: 1
 title:  Search Engine
 name: search-engine
-badge-description: A search engine based on the Inverted Index Algorithm and Flask framework.
-filter: filter-web
+badge-description: A Media Search Engine Based on media crawling and FastAPI.
+filter: filter-software
 badge-image: badge.jpg
-category: Web
+category: Software
 client:
-project-date: Spring 2016
-project-url:
-github-repository: abradat/AP-SearchEngine
+project-date: Present
 full-description: A search engine based on the Inverted Index Algorithm and Flask framework.
 images:
-    - address: 'search.png'
+    - address: 'main.png'
       caption: 'Basic and advance search options'
-    - address: 'history.png'
+    - address: 'netflix.png'
       caption: 'History of the previous searches'
     - address: 'results.png'
       caption: 'Results of the searches'
