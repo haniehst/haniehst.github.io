@@ -3,6 +3,7 @@ collections:
     output: true
     # sort_by: order
     permalink: :collection/:name
-baseurl: "haniehst.github.io" # the subpath of your site, e.g. /blog/
+baseurl: "/haniehst.github.io" # the subpath of your site, e.g. /blog/
+relative_url: "/haniehst.github.io"
 url: "http://haniehst.github.io" # the base hostname & protocol for your site
 markdown: kramdown
