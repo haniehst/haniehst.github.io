@@ -5,7 +5,7 @@ title:  Twitter Crawler
 name: twitter-crawler
 badge-description: Crawling public users' twitter timeline.
 filter: filter-software
-badge-image: badge.jpeg
+badge-image: badge.jpg
 category: Software
 client:
 project-date: December 2020
