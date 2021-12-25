@@ -3,6 +3,11 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=jekyll,ruby
 
 Gemfile.lock
+./.idea
+.DS_Store
+assets/.DS_Store
+assets/img/.DS_Store
+
 .idea
 /.idea/**
 ### Jekyll ###
