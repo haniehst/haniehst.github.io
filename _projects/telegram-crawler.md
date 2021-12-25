@@ -5,7 +5,7 @@ title:  Telegram Crawler
 name: telegram-crawler
 badge-description: A web application for crawling the telegram.
 filter: filter-software
-badge-image: badge.jpg
+badge-image: badge1.jpg
 category: Software
 client:
 project-date: August 2021
