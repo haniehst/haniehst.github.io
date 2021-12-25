@@ -5,7 +5,7 @@ title: Edge Caching
 name: edge-caching
 badge-description: Network Content Caching 
 filter: filter-network
-badge-image: badge.png
+badge-image: badge1.png
 category: Network
 client:
 project-date: Spring 2020

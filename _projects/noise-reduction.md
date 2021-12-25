@@ -5,7 +5,7 @@ title: Noise Reduction
 name: noise-reduction
 badge-description: A project removes noises from noisy images.
 filter: filter-ai
-badge-image: badge.png
+badge-image: badge1.png
 category: AI
 client:
 project-date: Fall 2017

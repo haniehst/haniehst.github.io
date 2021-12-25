@@ -5,10 +5,10 @@ title:  Snake Tron
 name: tron
 badge-description: Snake Game
 filter: filter-ai
-badge-image: badge.png
+badge-image: badge1.png
 category: AI
 client:
-project-date: Winter 2019
+project-date: Spring 2019
 project-url:
 github-repository: 
 full-description:
