@@ -11,16 +11,18 @@ client:
 project-date: Present
 full-description: Search Engine
 images:
-    - address: 'main2.png'
+    - address: 'main.png'
       caption: 'Main Page'
-    - address: 'gn2.png'
-      caption: 'General Tab'
-    - address: 'netflix-2.png'
-      caption: 'Movie Tab'
-    - address: 'new1.png'
+    - address: 'all.png'
+      caption: 'All Tab'
+    - address: 'video.png'
+      caption: 'Video Tab'
+    - address: 'news.png'
       caption: 'News Tab'
-    - address: 'music1.png'
+    - address: 'music.png'
       caption: 'Music Tab'
+    - address: 'shop.png'
+      caption: 'Shopping Tab'
 ---
 **NOTE: None of MCI's projects are open source. So, I am not allowed to share the code which I have developed in this project.**
 
