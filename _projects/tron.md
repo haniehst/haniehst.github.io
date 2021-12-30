@@ -22,4 +22,5 @@ full-description:
 | Technology | Usage |
 |------------------|--------|
 | <img src="{{'assets/img/portfolio/technologies/python.png' | relative_url}}" width="60" height="60"> | **Python** is the language used for this project |
+| <img src="{{'assets/img/portfolio/technologies/js.png' | relative_url}}" width="60" height="60"> | **Python** is the language used for this project |
 | <img src="{{'assets/img/portfolio/technologies/git.png' | relative_url}}" width="60" height="60"> | **Git** is used for version control |
