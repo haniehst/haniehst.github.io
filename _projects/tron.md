@@ -4,9 +4,9 @@ order: 2
 title:  Snake Tron
 name: tron
 badge-description: Snake Game
-filter: filter-ai
+filter: filter-game
 badge-image: badge1.png
-category: AI
+category: GAME
 client:
 project-date: Spring 2019
 project-url:
