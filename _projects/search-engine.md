@@ -11,16 +11,18 @@ client:
 project-date: Present
 full-description: Search Engine
 images:
-    - address: 'main2.png'
+    - address: 'main.png'
       caption: 'Main Page'
-    - address: 'gn2.png'
-      caption: 'General Tab'
-    - address: 'netflix-2.png'
-      caption: 'Movie Tab'
-    - address: 'new1.png'
+    - address: 'all.png'
+      caption: 'All Tab'
+    - address: 'video.png'
+      caption: 'Video Tab'
+    - address: 'news.png'
       caption: 'News Tab'
-    - address: 'music1.png'
+    - address: 'music.png'
       caption: 'Music Tab'
+    - address: 'shop.png'
+      caption: 'Shopping Tab'
 ---
 **NOTE: None of MCI's projects are open source. So, I am not allowed to share the code which I have developed in this project.**
 
@@ -33,6 +35,8 @@ images:
 | Technology | Usage |
 |------------------|--------|
 | <img src="{{'assets/img/portfolio/technologies/python.png' | relative_url}}" width="60" height="60"> | **Python** is used for developing the application |
+| <img src="{{'assets/img/portfolio/technologies/js.png' | relative_url}}" width="60" height="60"> | **Javascript** is the language used for this project's front-end |
+| <img src="{{'assets/img/portfolio/technologies/react.png' | relative_url}}" width="60" height="60"> | **React** is the language used for this project's front-end |
 | <img src="{{'assets/img/portfolio/technologies/kafka.png' | relative_url}}" width="60" height="60"> | **Kafka** is used to produce collected data |
 | <img src="{{'assets/img/portfolio/technologies/fast.png' | relative_url}}" width="60" height="60"> | **FastAPI** is used for API Gateway|
 | <img src="{{'assets/img/portfolio/technologies/elastic.jpeg' | relative_url}}" width="60" height="60"> | **Elasticsearch** is used for data storage and content search|
