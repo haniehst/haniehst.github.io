@@ -35,6 +35,8 @@ images:
 | Technology | Usage |
 |------------------|--------|
 | <img src="{{'assets/img/portfolio/technologies/python.png' | relative_url}}" width="60" height="60"> | **Python** is used for developing the application |
+| <img src="{{'assets/img/portfolio/technologies/js.png' | relative_url}}" width="60" height="60"> | **Javascript** is the language used for this project's front-end |
+| <img src="{{'assets/img/portfolio/technologies/react.png' | relative_url}}" width="60" height="60"> | **React** is the language used for this project's front-end |
 | <img src="{{'assets/img/portfolio/technologies/kafka.png' | relative_url}}" width="60" height="60"> | **Kafka** is used to produce collected data |
 | <img src="{{'assets/img/portfolio/technologies/fast.png' | relative_url}}" width="60" height="60"> | **FastAPI** is used for API Gateway|
 | <img src="{{'assets/img/portfolio/technologies/elastic.jpeg' | relative_url}}" width="60" height="60"> | **Elasticsearch** is used for data storage and content search|
