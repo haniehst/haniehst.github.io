@@ -27,7 +27,7 @@ images:
 **NOTE: None of MCI's projects are open source. So, I am not allowed to share the code which I have developed in this project.**
 
 #### Introduction
-**Zarebin** is certainly the most accurate, fast and efficient search engine launched in Iran so far and appears to be slowly gaining traction recently coming out with its own browser and search app for android devices.
+**Zarebin** is certainly the most accurate, fast and efficient search engine launched in Iran so far and appears to be slowly gaining traction recently coming out with its own browser and search app for android devices. (For IOS devices, web application is available)
 
 #### Technologies/Languages Used
 
